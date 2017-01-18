@@ -1,4 +1,16 @@
 {
   "name": "FXBTG 官网框架 ",
+  "description": "一个账户链接全球金融市场，提供有价值的金融服务，成为客户投资全球市场的首选。",
+  "keywords": [
+    "关键字",
+    "FXBTG",
+    "外汇"
+  ],
+  "homepage": "https://fxbtg-bank.com",
+  "author": "黑夜协奏曲",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/visdark/faxbtg-bank.git"
+  },
   "version": "0.0.1"
 }
