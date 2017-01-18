@@ -1,5 +1,6 @@
 {
   "name": "FXBTG 官网框架 ",
+  "version": "0.0.1",
   "description": "一个账户链接全球金融市场，提供有价值的金融服务，成为客户投资全球市场的首选。",
   "keywords": [
     "关键字",
@@ -12,5 +13,29 @@
     "type": "git",
     "url": "https://github.com/visdark/faxbtg-bank.git"
   },
-  "version": "0.0.1"
+
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-es2015": "^6.18.0",
+    "browser-sync": "^2.18.5",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^2.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-file-include": "^1.0.0",
+    "gulp-header": "^1.8.8",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-less": "^3.3.0",
+    "gulp-load-plugins": "^1.4.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-rev": "^7.1.2",
+    "gulp-sass": "^3.0.0",
+    "gulp-template": "^4.0.0",
+    "gulp-uglify": "^2.0.0",
+    "run-sequence": "^1.2.2"
+  },
+  "dependencies": {}
 }
